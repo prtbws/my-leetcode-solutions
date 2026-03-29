@@ -3,7 +3,7 @@ name: Sync Leetcode
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # runs every week automatically
+    - cron: "0 0 * * 0"   # runs every week automatically
 
 jobs:
   build:
