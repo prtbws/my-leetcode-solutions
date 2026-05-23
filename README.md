@@ -59,3 +59,23 @@ This repository is automatically synced with my LeetCode submissions daily using
 </p>
 
 <p align="center">⭐ Star this repo if you find it helpful!</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+<!---LeetCode Topics End-->
