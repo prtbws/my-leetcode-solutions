@@ -66,6 +66,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,8 +75,10 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
