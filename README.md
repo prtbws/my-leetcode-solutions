@@ -70,6 +70,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
@@ -86,4 +87,12 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
