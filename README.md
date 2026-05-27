@@ -74,6 +74,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
 |  |
 | ------- |
