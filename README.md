@@ -65,6 +65,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,11 +80,13 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## String
@@ -99,6 +102,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sliding Window
 |  |
@@ -113,4 +117,8 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
