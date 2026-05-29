@@ -69,6 +69,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,8 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
