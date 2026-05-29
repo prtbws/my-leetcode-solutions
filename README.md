@@ -68,6 +68,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0042-trapping-rain-water](https://github.com/prtbws/my-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -77,6 +78,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0003-longest-substring-without-repeating-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -111,6 +113,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
@@ -120,6 +123,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
