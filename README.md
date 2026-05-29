@@ -80,6 +80,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0496-next-greater-element-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
@@ -98,6 +99,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prtbws/my-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prtbws/my-leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
@@ -116,6 +118,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 | [0930-binary-subarrays-with-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prtbws/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prtbws/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
