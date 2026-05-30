@@ -105,6 +105,7 @@ This repository is automatically synced with my LeetCode submissions daily using
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -138,4 +139,8 @@ This repository is automatically synced with my LeetCode submissions daily using
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/prtbws/my-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prtbws/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prtbws/my-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
